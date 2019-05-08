@@ -1,0 +1,18 @@
+#wrapper, #gst_checkbox, #pst_checkbox, #print_consignment_agreement, #add_print{
+    display: none;
+}
+
+.gst_checkbox, .pst_checkbox, .chinese{
+    display: none;
+}
+
+table,th,td{
+    border-style: none;
+    font-weight:normal;
+}
+
+.gap{
+    padding-left: 20px;
+    padding-right: 20px;
+}
+

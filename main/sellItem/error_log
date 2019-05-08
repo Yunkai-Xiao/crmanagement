@@ -1,0 +1,12 @@
+[22-Feb-2018 10:19:58 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on boolean in /home1/cmleduco/public_html/q/main/sellItem/updateTradeRecord.php:21
+Stack trace:
+#0 {main}
+  thrown in /home1/cmleduco/public_html/q/main/sellItem/updateTradeRecord.php on line 21
+[22-Feb-2018 10:34:45 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on boolean in /home1/cmleduco/public_html/q/main/sellItem/updateTradeRecord.php:21
+Stack trace:
+#0 {main}
+  thrown in /home1/cmleduco/public_html/q/main/sellItem/updateTradeRecord.php on line 21
+[22-Feb-2018 15:53:47 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on boolean in /home1/cmleduco/public_html/q/main/sellItem/updateTradeRecord.php:21
+Stack trace:
+#0 {main}
+  thrown in /home1/cmleduco/public_html/q/main/sellItem/updateTradeRecord.php on line 21
